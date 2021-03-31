@@ -1,5 +1,5 @@
 # Archives [My Previous Project Archives]
-This file made by @Owner
+This file made by @Zahs
 
 DISCLAIMER!!!:
 	 
@@ -18,9 +18,9 @@ DISCLAIMER!!!:
 	This application request for confidential information and is intended only for usage of the application.
 	You cannot use or forward any attachments from the application itself.
 	You should not disseminate, distribute or copy this application.
-	Please notify @Sz1 if you received this app by mistake and delete this app from your system
+	Please notify @Zahs if you received this app by mistake and delete this app from your system
 
 ALERT WARNING!!! USE AT OWN RISK!
-	@Owner won't accept any responsibility on any damages.
+	@Zahs won't accept any responsibility on any damages.
 
-If you find any bugs and errors, feel free to contact me @Owner.
+If you find any bugs and errors, feel free to contact me @Zahs.
